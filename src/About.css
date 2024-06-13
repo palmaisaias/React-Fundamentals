@@ -1,0 +1,19 @@
+.about {
+    padding: 40px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .about h2 {
+    font-family: fantasy;
+    color: #934040;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #3b2c2c;
+  }
+  

@@ -1,0 +1,27 @@
+.contact {
+    padding: 40px;
+    background-color: #4f2828;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-family: fantasy;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact p {
+    font-size: 1.2rem;
+    line-height: .9;
+    color: #ffffff;
+  }
+  
+  .contact a {
+    color: #0073b1;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
